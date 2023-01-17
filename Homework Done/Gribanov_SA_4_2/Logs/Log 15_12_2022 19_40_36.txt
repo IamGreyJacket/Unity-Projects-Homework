@@ -1,0 +1,13 @@
+[19:40:36] Log file Log 15_12_2022 19_40_36.txt is open
+[19:40:36] Current game version is 0.0.0008
+[19:40:36] Game is launched
+[19:40:39] Start loading the level
+[19:40:39] Blocks started rotating
+[19:40:39] The level is loaded
+[19:40:40] The ball is released
+[19:40:40] The ball started moving
+[19:40:40] The game is paused
+[19:40:41] Restarting the level(scene)
+[19:40:41] Blocks started rotating
+[19:40:41] The level is loaded
+[19:40:41] Exiting the game

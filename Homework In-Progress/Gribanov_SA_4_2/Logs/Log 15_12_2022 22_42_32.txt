@@ -1,0 +1,12 @@
+[22:42:32] Log file Log 15_12_2022 22_42_32.txt is open
+[22:42:32] Current game version is 0.0.0010
+[22:42:32] Game is launched
+[22:42:34] Start loading the level
+[22:42:34] Blocks started rotating
+[22:42:34] The level is loaded
+[22:42:40] The ball is released
+[22:42:40] The ball started moving
+[22:42:52] The ball is out of gamezone
+[22:42:52] Health is reduced by 1 point
+[22:42:52] The ball is reset
+[22:42:55] Exiting the game

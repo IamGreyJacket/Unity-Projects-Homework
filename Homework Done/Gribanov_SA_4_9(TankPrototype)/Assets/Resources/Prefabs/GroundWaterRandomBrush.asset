@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdc5e1eccedb29e4894bbfab99032590, type: 3}
+  m_Name: GroundWaterRandomBrush
+  m_EditorClassIdentifier: 
+  m_Cells:
+  - m_Tile: {fileID: 0}
+    m_Matrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Pivot: {x: 0, y: 0, z: 0}
+  m_CanChangeZPosition: 0
+  m_Anchor: {x: 0.5, y: 0.5, z: 0.5}
+  m_Prefabs:
+  - {fileID: 2497403285480231538, guid: f3e43855ca107164ba0ef3181b652782, type: 3}
+  - {fileID: 5611620548667414588, guid: 6dbbd3ab3d1ba6a4fb303a75861a486c, type: 3}
+  - {fileID: 7604245042252930505, guid: 96a06452c29494c42af616210c54ab61, type: 3}
+  - {fileID: 21910373388244081, guid: d24b69be393c76d478dcb536446099ab, type: 3}
+  - {fileID: 2992620845319822362, guid: 6b3412dd1cecf784fa8a182e65dd087d, type: 3}
+  - {fileID: 5779069461748537162, guid: d9f50f1416d5dfe47a5010be43b495b0, type: 3}
+  - {fileID: 1550991456022816558, guid: ab429656f2a5edd438dcc2226030a268, type: 3}
+  - {fileID: 2630613820155638, guid: a13d21d8a07152b40ae7c39145e2f520, type: 3}
+  m_PerlinScale: 0.5

@@ -2,20 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace RPG
+namespace Balance
 {
-    public class Structs : MonoBehaviour
+    [System.Serializable]
+    public struct BaseParamsData
     {
-        // Start is called before the first frame update
-        void Start()
-        {
-
-        }
-
-        // Update is called once per frame
-        void Update()
-        {
-
-        }
-    }
+        public float Health;
+        public float Damage;
+        public float MoveSpeed;
+    } 
 }
