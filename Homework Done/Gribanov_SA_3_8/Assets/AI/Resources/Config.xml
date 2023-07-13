@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configs>
+  <Units>
+    <Unit Name ="Player">
+      <UnitAction Action="FastAttack" Key="FastAttack"/>
+      <UnitAction Action="StrongAttack" Key="StrongAttack"/>
+      <UnitAction Action="IMPACT" Key="Hit"/>
+    </Unit>
+    <Unit Name ="Melee">
+      <UnitAction Action="FastAttack" Key="FastAttack" Min="0" Max="3"/>
+      <UnitAction Action="StrongAttack" Key="StrongAttack" Min="0" Max="3"/>
+      <UnitAction Action="IMPACT" Key="Hit"/>
+      <UnitAction Action="Block" Key="Block" Min="0" Max="5"/>
+    </Unit>
+  </Units>
+</Configs>
