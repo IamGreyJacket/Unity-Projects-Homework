@@ -1,7 +1,0 @@
-[19:41:07] Log file Log 15_12_2022 19_41_07.txt is open
-[19:41:07] Current game version is 0.0.0008
-[19:41:07] Game is launched
-[19:41:08] Start loading the level
-[19:41:08] Blocks started rotating
-[19:41:08] The level is loaded
-[19:41:18] Exiting the game
