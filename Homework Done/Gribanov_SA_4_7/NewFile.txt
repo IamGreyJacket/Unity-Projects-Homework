@@ -1,3 +1,0 @@
-Some information, like...
-Directory: "D:\GreySerK\Unity Projects\Practice Zone"
-Or File: "D:\GreySerK\Unity Projects\Practice Zone\NewFile.txt"
